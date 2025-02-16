@@ -1,0 +1,15 @@
+
+
+//Absolute Path 
+
+An absolute path specifies the exact location of a file or directory from the root directory.
+The path with reference to root directory is called absolute.
+
+//Relative Path
+while a relative path specifies its location relative to the current working directory
+The path with reference to current directory is called relative.
+
+
+Special Characater 
+    ../ level up directory
+    ./ current directory
